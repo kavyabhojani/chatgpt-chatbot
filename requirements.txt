@@ -196,9 +196,9 @@ swig==4.1.1
 tensorboard==2.10.1
 tensorboard-data-server==0.7.0
 tensorboard-plugin-wit==1.8.1
-tensorflow==2.12.0
-tensorflow-estimator==2.12.0
-tensorflow-intel==2.12.0
+tensorflow==2.10.0
+tensorflow-estimator==2.10.0
+tensorflow-intel==2.10.0
 tensorflow-io-gcs-filesystem==0.24.0
 termcolor==1.1.0
 terminado==0.13.3
@@ -206,8 +206,8 @@ testpath==0.6.0
 tf-estimator-nightly==2.8.0.dev2021122109
 threadpoolctl==3.0.0
 toml==0.10.2
-toolz==0.12.0
-torch==1.12.1
+toolz==0.10.0
+torch==1.10.1
 tornado==6.1
 touch==2020.12.3
 tqdm==4.62.3
@@ -223,7 +223,7 @@ utils==1.0.1
 uvicorn==0.22.0
 values==2020.12.3
 vine==5.0.0
-virtualenv==20.14.1
+virtualenv==20.11.1
 virtualenv-clone==0.5.7
 waitress==2.1.2
 wcwidth==0.2.5
