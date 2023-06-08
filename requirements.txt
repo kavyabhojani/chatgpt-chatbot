@@ -193,7 +193,7 @@ SQLAlchemy==1.4.36
 sqlparse==0.4.2
 starlette==0.27.0
 swig==4.1.1
-tensorboard==2.12.1
+tensorboard==2.10.1
 tensorboard-data-server==0.7.0
 tensorboard-plugin-wit==1.8.1
 tensorflow==2.12.0
